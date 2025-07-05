@@ -1,4 +1,4 @@
-# Contributing to JavaFX Music Player
+# Contributing to JavaFx Music Player
 
 Thank you for considering contributing to this project!
 
@@ -13,4 +13,11 @@ Thank you for considering contributing to this project!
 - Write clear, concise commit messages
 
 ## Reporting Issues
-- Use the GitHub Issues tab to report bugs or request features 
+- Use the GitHub Issues tab to report bugs or request features
+
+---
+
+## Project Maintainers
+- **Jubaer Ahamed Bhuiyan**
+- **Nayla Yousuf**
+- **Muhaiminul Maliha** 
